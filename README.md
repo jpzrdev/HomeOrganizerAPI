@@ -1,2 +1,4 @@
 # HomeOrganizerAPI
- An api to provides homecare functions like ShopList, Home Tasks, Schedules and more;
+
+An api,not finish, to provides homecare functions like Shopping Lists, Home Tasks, Schedules and more;
+This API with Swagger
